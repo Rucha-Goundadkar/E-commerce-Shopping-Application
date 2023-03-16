@@ -11,3 +11,7 @@ Created different routes to process the requests.
 User can add products into cart.
 
 Completed checkout with Paypal.
+
+To install all dependencies run command : npm install
+
+To run the server execute command : npm run server
